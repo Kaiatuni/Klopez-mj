@@ -3,7 +3,8 @@ public class App {
         int myVariable = 10;
         final int myConstant = 20;
 
-        system.out.println("Valor de mi variable:" + myVariable);
-        system.out.println("")
+        System.out.println("Valor de mi variable:" + myVariable);
+        System.out.println("Valor de mi constante:"+ myConstant);
+
     }
 }
