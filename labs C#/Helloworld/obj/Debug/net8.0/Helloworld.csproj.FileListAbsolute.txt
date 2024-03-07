@@ -1,0 +1,15 @@
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\bin\Debug\net8.0\Helloworld.exe
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\bin\Debug\net8.0\Helloworld.deps.json
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\bin\Debug\net8.0\Helloworld.runtimeconfig.json
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\bin\Debug\net8.0\Helloworld.dll
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\bin\Debug\net8.0\Helloworld.pdb
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfoInputs.cache
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.AssemblyInfo.cs
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.csproj.CoreCompileInputs.cache
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.sourcelink.json
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.dll
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\refint\Helloworld.dll
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.pdb
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\Helloworld.genruntimeconfig.cache
+c:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\Helloworld\obj\Debug\net8.0\ref\Helloworld.dll

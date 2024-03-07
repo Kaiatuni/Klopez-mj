@@ -1,0 +1,15 @@
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\bin\Debug\net8.0\example1.exe
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\bin\Debug\net8.0\example1.deps.json
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\bin\Debug\net8.0\example1.runtimeconfig.json
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\bin\Debug\net8.0\example1.dll
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\bin\Debug\net8.0\example1.pdb
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.AssemblyInfoInputs.cache
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.AssemblyInfo.cs
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.csproj.CoreCompileInputs.cache
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.sourcelink.json
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.dll
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\refint\example1.dll
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.pdb
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\example1.genruntimeconfig.cache
+C:\Users\klopez2441\Documents\Inter\COMP 2315\labs C#\example1\obj\Debug\net8.0\ref\example1.dll
