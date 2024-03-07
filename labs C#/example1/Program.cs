@@ -6,7 +6,10 @@ namespace example1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Kivan!");
+            int myVariable = 10;
+            const int myConstant = 20;
+            Console.WriteLine("Valor de mi variable" + myVariable);
+            Console.WriteLine("Valor de mi constante" + myConstant);
         }
     }
 }
