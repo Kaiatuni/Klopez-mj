@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj": {}
+    "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj": {
+    "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj",
+        "projectUniqueName": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj",
         "projectName": "Helloworld",
-        "projectPath": "c:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj",
+        "projectPath": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\Helloworld.csproj",
         "packagesPath": "C:\\Users\\klopez2441\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\obj\\",
+        "outputPath": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\Helloworld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\klopez2441\\AppData\\Roaming\\NuGet\\NuGet.Config"
