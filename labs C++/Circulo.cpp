@@ -10,5 +10,9 @@ int main()
     cout << " Ingrese la medida del radio";
     cin >> radio;
 
-    area = PI * radio 
+    area = PI * radio;
+
+    cout <<" El area del circulo es: "<<area<<endl;
+
+    return 0;
 }
