@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\example2\\example2.csproj",
+      "projectUniqueName": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\example2\\example2.csproj",
       "projectName": "example2",
-      "projectPath": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\example2\\example2.csproj",
+      "projectPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\example2\\example2.csproj",
       "packagesPath": "C:\\Users\\klopez2441\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klopez2441\\Documents\\Inter\\COMP 2315\\labs C#\\example2\\obj\\",
+      "outputPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\example2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klopez2441\\AppData\\Roaming\\NuGet\\NuGet.Config"

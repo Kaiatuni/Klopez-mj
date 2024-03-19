@@ -7,6 +7,6 @@ public class App {
         System.out.print("Ingrese un número entero: ");
         int entero = scanner.nextInt();
 
-        System.out.print("")
+        System.out.print("");
     }
 }
