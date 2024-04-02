@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bonos",
+            "request": "launch",
+            "mainClass": "Bonos",
+            "projectName": "Klopez-mj_e9001542"
+        },
+        {
+            "type": "java",
+            "name": "Bono",
+            "request": "launch",
+            "mainClass": "Bono",
+            "projectName": "Klopez-mj_e9001542"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
