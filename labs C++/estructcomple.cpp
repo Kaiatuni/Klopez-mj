@@ -15,7 +15,7 @@ int main()
     miembro_vip = tolower(miembro_vip); 
 // El if se usa para preguntar si el usuario tiene vip o no //
     if(total_compras >= 150 || miembro_vip == 's') { 
-        cout << 'Desuento aplicado' <<endl;
+        cout << "Descuento aplicado" <<endl;
     } else {
         cout << "SIn descuento aplicado" <<endl;
     }
