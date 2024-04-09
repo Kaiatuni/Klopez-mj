@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\Tarjeta\\Tarjeta.csproj",
-      "projectName": "Tarjeta",
-      "projectPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\Tarjeta\\Tarjeta.csproj",
+      "projectUniqueName": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\tarjeta\\tarjeta.csproj",
+      "projectName": "tarjeta",
+      "projectPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\tarjeta\\tarjeta.csproj",
       "packagesPath": "C:\\Users\\klopez2441\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\Tarjeta\\obj\\",
+      "outputPath": "C:\\Users\\klopez2441\\Documents\\Klopez-mj\\labs C#\\tarjeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\klopez2441\\AppData\\Roaming\\NuGet\\NuGet.Config"

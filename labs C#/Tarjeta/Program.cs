@@ -1,25 +1,20 @@
 ﻿using System;
 
-class Tarjeta
+namespace tarjeta
 {
-    static void Main(string[] args)
+    internal class Program
     {
-        // Solicitar al usuario el estado de la tarjeta de biblioteca
-        Console.WriteLine("¿Cuál es el estado de su tarjeta de biblioteca? (activa/inactiva)");
-        string estadoTarjeta = Console.ReadLine();
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Ingrese 1 para Tarjeta activa");
+            int tarjeta = int.Parse(Console.readline());
 
-        // Verificar el estado de la tarjeta y mostrar el mensaje correspondiente
-        if (estadoTarjeta() == "activa")
-        {
-            Console.WriteLine("¡Puede realizar préstamos!");
-        }
-        else if (estadoTarjeta() == "inactiva")
-        {
-            Console.WriteLine("Lo siento, no se permiten préstamos.");
-        }
-        else
-        {
-            Console.WriteLine("Por favor, introduzca un estado válido (activa/inactiva).");
+            if (tarjeta = 1){
+                Console.Writeline("Su tarjeta es valida.");
+            }
+            else {
+                Console.Writeline("Su tarjeta NO es valida.");
+            }
         }
     }
 }

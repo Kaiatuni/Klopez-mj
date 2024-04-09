@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Tarjeta/1.0.0": {
+      "tarjeta/1.0.0": {
         "runtime": {
-          "Tarjeta.dll": {}
+          "tarjeta.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Tarjeta/1.0.0": {
+    "tarjeta/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
