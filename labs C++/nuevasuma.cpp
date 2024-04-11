@@ -8,9 +8,12 @@ int main ()
     string nombreEstudiante;
     int cantidadEstudiante;
 
+//pide al usuario que le ponga la cantidad de estudiantes //
     cout << "Ingrese la cantidad de estudiantes (10 o menos estudiantes)";
     cin >> cantidadEstudiante;
-    if(cantidadEstudiante <= 10){
+
+    if(cantidadEstudiante <= 10)
+    {
         for(int i = 1; i <= cantidadEstudiante; i++){
 
             cout <<"Estudiante #" <<i <<":";
