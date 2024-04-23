@@ -1,0 +1,15 @@
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\bin\Debug\net8.0\temperatura.exe
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\bin\Debug\net8.0\temperatura.deps.json
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\bin\Debug\net8.0\temperatura.runtimeconfig.json
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\bin\Debug\net8.0\temperatura.dll
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\bin\Debug\net8.0\temperatura.pdb
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.AssemblyInfoInputs.cache
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.AssemblyInfo.cs
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.sourcelink.json
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.dll
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\refint\temperatura.dll
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.pdb
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\temperatura.genruntimeconfig.cache
+C:\Users\klopez2441\Documents\Klopez-mj\labs C#\temperatura\obj\Debug\net8.0\ref\temperatura.dll
